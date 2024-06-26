@@ -459,7 +459,7 @@ Here are some others we won't really use, except maybe for some examples and exe
   <ul>
     <li><q><m>19</m> is congruent to <m>5</m> modulo 7</q></li>
     <li><q><m>11</m> is congruent to <m>27</m> modulo 4</q></li>
-    <li><q><m>13</m> is congruent to <m>7</m> modulo 5</q></li>
+    <li><q><m>13</m> is not congruent to <m>7</m> modulo 5</q></li>
   </ul>
   where there is a definite <em>first</em> number and a definite <em>second</em> number in the relation. However since congruence is symmetric, we can instead say
   <ul>
