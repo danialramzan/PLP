@@ -1395,7 +1395,7 @@ This makes it much easier to talk about different modulii without confusing the 
   (since <m>[13]_4 = [1]_4</m>).
   Similarly modulo 5 we get:
   <me>
-    [2]_5 \cdot [x]_5 = [1]_5.
+    [2]_5 \cdot [x]_5 = [3]_5.
   </me>
   We can try to solve these equations by brute-force by just writing out the multiplication tables modulo 4 and 5:
 </p>
@@ -1454,7 +1454,7 @@ This makes it much easier to talk about different modulii without confusing the 
 <p>
     Now - we see that modulo 5 we have a solution since:
     <me>
-      [2]_5 \cdot [3]_5 = [1]_5
+      [2]_5 \cdot [4]_5 = [3]_5
     </me>
     but modulo 4 there is no solution since
     <me>
