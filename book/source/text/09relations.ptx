@@ -867,7 +867,7 @@ We'll call this result a corollary.
           <p>
             Transitive <mdash /> Let <m>(a,b), (c,d), (e,f) \in \mathbb{R}^2</m> and assume that
             <me>
-              (a,b) \rel (c,d) \qquad \text{ and } \qquad (c,d) \rel (a,b).
+              (a,b) \rel (c,d) \qquad \text{ and } \qquad (c,d) \rel (e,f).
             </me>
             Hence we know that
             <me>
