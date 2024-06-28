@@ -1776,7 +1776,7 @@ For example
       </me>
       By Lemma <xref ref="lem-euc"/> we know that <m>\gcd(a,b) = \gcd(a,r)</m>. Hence computing <m>\gcd(b,r)</m> is the same as computing <m>\gcd(a,b)</m>.
       </li>
-      <li>Since <m>0 \lt r \lt |b|</m> it follows that the value of <m>r</m> will be <em>strictly</em> smaller in each iteration. Further, since <m>r</m> is an integer, it follows that <m>r</m> will become zero in a finite number of iterations.
+      <li>Since <m>0 \leq r \lt |b|</m> it follows that the value of <m>r</m> will be <em>strictly</em> smaller in each iteration. Further, since <m>r</m> is an integer, it follows that <m>r</m> will become zero in a finite number of iterations.
       </li>
     </ul>
     Hence the algorithm described will terminate in a finite number of steps and give the gcd.
